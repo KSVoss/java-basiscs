@@ -15,7 +15,7 @@ public class Main {
         System.out.println(summe);
         System.out.println(auchZahlen[0]+auchZahlen[1]);
         System.out.println(zahlen.length);
-        System.out.println(zahlen.length);
+        //System.out.println(zahlen.length);
 
         /*1 3 ausgeben
             1+2 ausgeben
